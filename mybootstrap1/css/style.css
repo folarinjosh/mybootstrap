@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* card images to width */
+#images img{
+    width:50px;
+}
+
+/* for news letter section,makes the tab smaller. */
+@media(min-width:768px){
+    .news-input{
+        width:50%;
+    }
+}
